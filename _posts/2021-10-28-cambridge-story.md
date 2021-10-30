@@ -27,10 +27,16 @@ _给MP的联名信_
 
 好消息是，公开信和联署签名得到了MP和警方官员的重视。Daniel本人也给了公开[回复](https://drive.google.com/file/d/1HJQiBS9dzkucPIoa1alLRMKuqQk9R01_/view?usp=sharing)。警方在9月30当天在剑桥以北的城市Doddington抓了其中三个人。虽然没有把全部人都抓住，但是依然一定程度上震慑住了其他人，据我所知从那以后剑桥没有再受到这群人的袭扰。
 
-—_Daniel的回复_
+_Daniel的回复_
 ![response](/assets/img/response_letter_from_MP.jpg)
 
-与此同时我也接受了多家中文媒体和英国当地媒体的采访和报道。其中ITV news的专项[报道](https://www.itv.com/news/2021-10-06/true-scale-of-covid-hate-crime-against-asians-in-uk-revealed-as-victims-speak-up)在黄金时段的晚间新闻播出以后收到了很多关注，工党的几名少数族裔MP以及演员Gemma Chan都有转发。在和记者以及各种NGO组织的交流中我才意识到，针对亚裔的hate crime在近两年内增多了很多，比如在伦敦过去一年针对亚裔的hate crime增加了80%。
-![graph](/assets/img/graph.jpg)
+与此同时我也接受了多家中文媒体和英国当地媒体的采访和报道。其中ITV news的专项[报道](https://www.itv.com/news/2021-10-06/true-scale-of-covid-hate-crime-against-asians-in-uk-revealed-as-victims-speak-up)在黄金时段的晚间新闻播出以后收到了很多关注，工党的几名少数族裔MP以及演员Gemma Chan都有转发。在和记者以及各种NGO组织的交流中我才意识到，针对亚裔的hate crime在近两年内增多了很多，比如在伦敦过去一年针对亚裔的hate crime增加了80%。亲自发生在我身上以前，我曾经怀疑媒体有所夸大，现在才知道这种事情现在对于所有亚裔都是一个实际的威胁，无论你是哪国人，只要你长着东亚的面孔，在一些racist看来没有区别。我做手术前照顾我的是一位菲律宾护士，她在照顾我的几天前刚刚在伦敦被一群人尾随并且被问“Are you Chinese?”。在得到了否定的回答后这群人依然尾随她，导致她直接随机敲了街边一户人家的房门求助。我印象深刻的点在于，她说她现在有时出门要戴着黑头巾假装穆斯林，因为东亚和东南亚人们之间并不团结，而“穆斯林更加团结，所以很少有人会骚扰他们”。
+
+_Asian hate crime数量近年来的变化_
+![graph](/assets/img/graph.png)
+
+_Gemma chan的转发_
+![retweet](/assets/img/retweet.jpg)
+
 
 *更新：10月24日又有一名在剑桥的中国女生被骚扰和袭击，至于是否是同一批人还不确定，相关[报道](https://mp.weixin.qq.com/s/Jd4mFYlHoomdmnMsuJ2Rgw)
