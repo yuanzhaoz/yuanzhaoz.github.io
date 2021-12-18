@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 待定的标题
+title: 记一次种族歧视犯罪
 # subtitle: Each post also has a subtitle
 # gh-repo: daattali/beautiful-jekyll
 # gh-badge: [star, fork, follow]
@@ -58,7 +58,7 @@ _Gemma chan的转发_
 
 最后再次感谢在我最困难的期间所有帮助过我的人，无论是华人还是当地的英国人，都让我看到了这个社会还是善良友爱的人多。祝大家圣诞/新年快乐 :)
 
-*如果大家知道英国或者国内的靠谱鼻部修复性整容医生，也可以推荐给我。
+*如果大家知道英国或者国内的靠谱鼻整容医生，也可以推荐给我。
 
 <!-- *更新：10月24日又有一名在剑桥的中国女生被骚扰和袭击，至于是否是同一批人还不确定，相关[报道](https://mp.weixin.qq.com/s/Jd4mFYlHoomdmnMsuJ2Rgw) -->
 
