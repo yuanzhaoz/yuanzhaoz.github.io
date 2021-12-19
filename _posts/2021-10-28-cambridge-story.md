@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 记一次种族歧视犯罪
+title: 记一次我经历的种族歧视犯罪
 # subtitle: Each post also has a subtitle
 # gh-repo: daattali/beautiful-jekyll
 # gh-badge: [star, fork, follow]
