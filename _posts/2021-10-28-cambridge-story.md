@@ -38,7 +38,7 @@ _给MP的联名信_
 ![joint-letter](/assets/img/Joint_Letter_to_MP_final_page-0001.jpg)
 ![joint-letter](/assets/img/Joint_Letter_to_MP_final_page-0002.jpg)
 
-在这里我想感谢孙伟老师，黄瀚，邢玮傲，袁飞，解惠媛，王瑞雪，张凯文，陈未蔚，徐俪拢，王天一，薛者，等许许多多同学和朋友在这中间的帮助和支持，没有你们我自己不可能完成这么多事情；感谢Mill Road Traders' Association的Piero大叔，他一直在社区内向大家告知此事的进展并且用自己的特殊身份给警方和市政官员施压，剑桥的小伙伴可以考虑多多去他家的[理发店](https://www.facebook.com/pieroshairdressing/)支持生意；感谢公司的同事的理解与支持，以及整个center的同事们给我送来的贴心卡片和鲜花，尤其是Shiyang和他母亲的拜访，让我感到十分暖心。
+在这里我想感谢孙伟老师，黄瀚，邢玮傲，朱小久律师，康律师，袁飞，解惠媛，王瑞雪，张凯文，陈未蔚，徐俪拢，王天一，薛者，等许许多多同学和朋友在这中间的帮助和支持，没有你们我自己不可能完成这么多事情；感谢Mill Road Traders' Association的Piero大叔，他一直在社区内向大家告知此事的进展并且用自己的特殊身份给警方和市政官员施压，剑桥的小伙伴可以考虑多多去他家的[理发店](https://www.facebook.com/pieroshairdressing/)支持生意；感谢公司的同事的理解与支持，以及整个center的同事们给我送来的贴心卡片和鲜花，尤其是Shiyang和他母亲的拜访，让我感到十分暖心。
 
 ![card](/assets/img/card.jpg)
 
