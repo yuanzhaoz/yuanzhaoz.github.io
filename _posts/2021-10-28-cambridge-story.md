@@ -32,13 +32,13 @@ comments: true
 1. 报警后我一直在配合警方做口供，提供证据，
 2. 接受一些中文媒体以及英国当地媒体的采访，以及主动去联系一些诸如BBC，Sky news，ITV等更大的媒体平台。
 3. 我意识到这同一批人在剑桥已经有规律的作案了很久，很多亚裔学生（一大部分是中国学生）都受到了骚扰和不同程度的袭击。我主动去联系他们并且把他们遇袭的时间地点以及他们的联系方式告诉警方。
-4. 在剑桥华人社区中心孙伟老师的建议下，我起草了一份给剑桥MP Daniel Zeichner的[联名信](https://drive.google.com/file/d/19ZBgKiTyczHJMCFXdfCwUBW88khV0DVg/view?usp=sharing)，发起了“stop Asian hate Cambridge”的联署签名并且现在已经收集了2000个左右的签名，以及在Kevin的帮助下我们建立了一个[网站](https://stopasianhatecambridge.notion.site/)
+4. 在剑桥华人社区中心孙伟老师的建议下，我起草了一份给剑桥MP Daniel Zeichner的[联名信](https://drive.google.com/file/d/19ZBgKiTyczHJMCFXdfCwUBW88khV0DVg/view?usp=sharing)，发起了“stop Asian hate Cambridge”的联署签名并且现在已经收集了2000个左右的签名，使领馆也在直接和剑桥警方交涉催促他们抓捕嫌犯，以及在Kevin的帮助下我们建立了一个[网站](https://stopasianhatecambridge.notion.site/)
 
 _给MP的联名信_
 ![joint-letter](/assets/img/Joint_Letter_to_MP_final_page-0001.jpg)
 ![joint-letter](/assets/img/Joint_Letter_to_MP_final_page-0002.jpg)
 
-在这里我想感谢孙伟老师，黄瀚，邢玮傲，朱小久律师，康律师，袁飞，解惠媛，王瑞雪，张凯文，陈未蔚，徐俪拢，王天一，薛者，等许许多多同学和朋友在这中间的帮助和支持，没有你们我自己不可能完成这么多事情；感谢Mill Road Traders' Association的Piero大叔，他一直在社区内向大家告知此事的进展并且用自己的特殊身份给警方和市政官员施压，剑桥的小伙伴可以考虑多多去他家的[理发店](https://www.facebook.com/pieroshairdressing/)支持生意；感谢公司的同事的理解与支持，以及整个center的同事们给我送来的贴心卡片和鲜花，尤其是Shiyang和他母亲的拜访，让我感到十分暖心。
+在这里我想感谢剑桥华人社区中心的帮助，尤其是孙伟老师和童学军领事一直在利用自己的特殊身份给警方和市政官员施压，不断跟进此事，确保罪犯被绳之以法；感谢黄瀚，邢玮傲，朱小久律师，康律师，袁飞，解惠媛，王瑞雪，张凯文，陈未蔚，徐俪拢，王天一，薛者，等许许多多同学和朋友在这中间的帮助和支持，没有你们我自己不可能完成这么多事情；感谢Mill Road Traders' Association的Piero大叔，他一直在社区内向大家告知此事的进展并且帮我与警方沟通，剑桥的小伙伴可以考虑多多去他家的[理发店](https://www.facebook.com/pieroshairdressing/)支持生意；感谢公司的同事的理解与支持，以及整个center的同事们给我送来的贴心卡片和鲜花，尤其是Shiyang和他母亲的拜访，让我感到十分暖心。
 
 ![card](/assets/img/card.jpg)
 
