@@ -10,7 +10,7 @@ comments: true
 
 <!-- **Here is some bold text** -->
 
-It's common to deal with sequences of variable lengths in NLP. This article provides a simple yet effective way of dealing with variable length sequences when training an LSTM network on mini-batches. For transformers the procedure will be slightly different yet the principle is the same. If you are to treat one invidual sequence at each time then you will not to go though all the trouble, simply pass one sequence at a time(and perhaps do gradient accumulation if you want to 'mock' mini-batch training to make training more stable). But remember training with mini-batches can significantly improve training speed and this is especially true for current popular benchmark datasets with more than tens of thousands sequences.
+It's common to deal with sequences of variable lengths in NLP. This article provides a simple yet effective way of dealing with variable length sequences when training an LSTM network on mini-batches. For transformers the procedure will be slightly different yet the principle is the same. If you are to treat one invidual sequence at each time then you will not need to go though all the trouble, simply pass one sequence at a time(and perhaps do gradient accumulation if you want to 'mock' mini-batch training to make training more stable). But remember training with mini-batches can significantly improve training speed and this is especially true for current popular benchmark datasets with more than tens of thousands sequences.
 
 ## Create a custom `Dataset` class
 
