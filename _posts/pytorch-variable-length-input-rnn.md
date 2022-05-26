@@ -10,6 +10,8 @@ comments: true
 
 <!-- **Here is some bold text** -->
 
+It's common to deal with sequences of variable lengths in NLP. This article provides a simple yet effective way of dealing with variable length sequences when training an LSTM network. For transformers the procedure will be slightly different yet the principle is the same.
+
 ## Create a custom `Dataset` class
 
 First define a Dataset class that hosts custom data. It needs to have `__len__` and `__getitem__` functions. In particular, `__getitem__` returns the indexed element in the dataset. For this particular example, the training data consists of a list of verb and nouns, and the target labels are also a list of verbs and nouns. This poses the problem as a sequence to sequence (seq2seq) problem with varibale length inputs and labels.
@@ -17,7 +19,7 @@ First define a Dataset class that hosts custom data. It needs to have `__len__` 
 | data | input | label |
 | :------ |:--- | :--- |
 | 1 | cut tomoto, cut tomato, add tomato, ... | cut tomoto, cut tomato, cut tomato,... |
-| 2 | cut cucumber, cut onion, cut onion, ... | cut tomato, cut onion, cut onion, ... |
+| 2 | cut cucumber, cut onion, ... | cut tomato, cut onion, ... |
 | 3 | grate cheese, grate cheese, peel onion,... | cut cheese, cut cheese, peel onion,... |
 | ... | ... | ... |
 
