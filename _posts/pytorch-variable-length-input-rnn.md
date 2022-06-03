@@ -15,7 +15,7 @@ It's common to deal with sequences of variable lengths in NLP. This article prov
 
 First define a Dataset class that hosts custom data. It needs to have `__len__` and `__getitem__` functions. In particular, `__getitem__` returns the indexed element in the dataset. For this particular example, the training data consists of a list of verb and nouns, and the target labels are also a list of verbs and nouns. This poses the problem as a sequence to sequence (seq2seq) problem with varibale length inputs and labels.
 
-| data | input | label |
+<!-- | data | input | label |
 | :------ |:--- | :--- |
 | 1 | cut tomoto, cut tomato, add tomato, ... | cut tomoto, cut tomato, cut tomato,... |
 | 2 | cut cucumber, cut onion, ... | cut tomato, cut onion, ... |
@@ -113,5 +113,5 @@ for (idx, batch) in enumerate(data_loader_train):
       optimizer.step()
       scheduler.step()
       optimizer.zero_grad()
-```
+``` -->
 
