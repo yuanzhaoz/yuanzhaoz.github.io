@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Variable length input for RNN models in PyTorch
-tags: [ml]
+tags: [personal]
 comments: true
 ---
 
