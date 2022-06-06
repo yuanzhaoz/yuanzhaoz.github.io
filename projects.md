@@ -4,8 +4,8 @@ title: Projects
 # subtitle: Why you'd want to go on a date with me
 ---
 
-## 
-:briefcase: My name is Yuanzhao Zhang, a research engineer at [Samsung AI center Cambridge](https://research.samsung.com/aicenter_cambridge). 
+
+:briefcase: My name is Yuanzhao Zhang, a research engineer at [Samsung AI center Cambridge](https://research.samsung.com/aicenter_cambridge).  💼
 
 <!-- Inigo Montoya. I have the following qualities:
 
