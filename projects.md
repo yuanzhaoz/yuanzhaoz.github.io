@@ -10,13 +10,13 @@ title: Projects
 🎓 Obtained my MPhil degree in **Machine Learning** from the University of Cambridge, and my Bachelor degree in **Computer Engineering** from the Hong Kong University of Science and Technology. 
 
 ## Contact
-[Email](mailto:nhayst@gmail.com)
+* [Email](mailto:nhayst@gmail.com)
 
 
 ## Profile
 * [Resume](resources/resume_2022.pdf)
-* [Linkedin](https://www.linkedin.com/in/yuanzhao-zhang-3b36b089/)
-* [Scholar](https://scholar.google.com/citations?user=1KqATioAAAAJ&hl=en)
+* [LinkedIn](https://www.linkedin.com/in/yuanzhao-zhang-3b36b089/)
+* [Google Scholar](https://scholar.google.com/citations?user=1KqATioAAAAJ&hl=en)
 
 <!-- Inigo Montoya. I have the following qualities:
 
