@@ -16,12 +16,14 @@ css: "/assets/css/index.css"
 
 ## Robotics
 * [Collaborative air-ground target searching in complex environments](https://ieeexplore.ieee.org/abstract/document/8088168)
-
 <div class="youtube-embed-container">
 <iframe src="https://www.youtube.com/embed/6Hbjzl-nEk4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+
 
 * Search & Rescue Robot with 2-D Mapping
 <div class="youtube-embed-container">
 <iframe src="https://www.youtube.com/embed/e93xYo3cz-s" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+
+* Motor Controller Design & Build for Multi-tasking Robot ([ABU Robocon 2014 Contest](https://news.hkust.edu.hk/news/hkust-robotics-team-achieved-outstanding-results-robocon-hong-kong-contest-third-consecutive)) 
