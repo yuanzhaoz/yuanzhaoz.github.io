@@ -2,6 +2,7 @@
 layout: page
 title: Research
 subtitle: This is where I showcase my past publication and projects (without breaching compliance 😉)
+css: "/assets/css/index.css"
 ---
 
 ## Machine Learning
@@ -14,6 +15,7 @@ subtitle: This is where I showcase my past publication and projects (without bre
 
 ## Robotics
 * [Collaborative air-ground target searching in complex environments](https://ieeexplore.ieee.org/abstract/document/8088168)
+
 <div class="youtube-embed-container">
 <iframe src="https://www.youtube.com/embed/6Hbjzl-nEk4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
