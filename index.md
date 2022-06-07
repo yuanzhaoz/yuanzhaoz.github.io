@@ -1,5 +1,5 @@
 ---
 layout: page
-title: Staff Research Scientist
-subtitle: Spotify
+title: Hi, I'm Yuanzhao
+subtitle: Research Engineer / Machine Learning & Robotics Enthusiast
 ---
