@@ -20,3 +20,8 @@ css: "/assets/css/index.css"
 <div class="youtube-embed-container">
 <iframe src="https://www.youtube.com/embed/6Hbjzl-nEk4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+
+* Search & Rescue Robot with 2-D Mapping
+<div class="youtube-embed-container">
+<iframe src="https://www.youtube.com/embed/e93xYo3cz-s" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
