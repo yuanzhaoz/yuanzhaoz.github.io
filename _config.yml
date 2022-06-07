@@ -201,7 +201,7 @@ footer-hover-col: "#0085A1"
 #  reactions-enabled: 1
 #  emit-metadata: 0
 #  theme: light
-
+site-css: "/assets/css/custom-styles.css"
 # --- Misc --- #
 
 # Ruby Date Format to show dates of posts
