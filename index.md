@@ -13,7 +13,7 @@ subtitle: Research Engineer / Machine Learning & Robotics Enthusiast
 
 
 ## Profile
-* [Resume](resources/resume_2022.pdf)
+* [Resume](resources/resume_yuanzhao_zhang_2022.pdf)
 * [LinkedIn](https://www.linkedin.com/in/yuanzhao-zhang-3b36b089/)
 * [Google Scholar](https://scholar.google.com/citations?user=1KqATioAAAAJ&hl=en)
 
